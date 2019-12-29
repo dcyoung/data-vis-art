@@ -1,0 +1,9 @@
+name: obj-trajectory
+dependencies:
+    - python=3.8
+    - pylint
+    - pip
+    - pip:
+        - black
+        - numpy
+        - matplotlib
